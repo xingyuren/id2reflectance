@@ -2,7 +2,7 @@
 
 Xingyu Ren, Jiankang Deng, Yuhao Cheng, Jia Guo, Chao Ma, Yichao Yan, Wenhan Zhu and Xiaokang Yang
 
-:star: The implementation for the CVPR2024 paper: [ID2Reflectance](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_Monocular_Identity-Conditioned_Facial_Reflectance_Reconstruction_CVPR_2024_paper.pdf), you can also refer to this [github repository](https://github.com/phiphiphi31/DiffusionTrack).
+:star: The implementation for the CVPR2024 paper: [ID2Reflectance](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_Monocular_Identity-Conditioned_Facial_Reflectance_Reconstruction_CVPR_2024_paper.pdf).
 
 :star: We release an implementation of the multi-domain reflection model in ID2Reflectance.
 
